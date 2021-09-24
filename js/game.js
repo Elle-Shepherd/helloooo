@@ -15,3 +15,5 @@ game.global = {
 
 //Load the boot state
 game.state.start('boot');
+
+console.log('Nathan stinks');
