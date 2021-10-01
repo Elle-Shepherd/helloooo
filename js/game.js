@@ -10,8 +10,8 @@ game.state.add('win', winState);    //Game over screen
 
 //Any game spanning variables/settings could be placed here
 game.global = {
-  Gems = 0;
-  Lives = 3;
+  Gems = 0,
+  Lives = 3
   // Add score and lives code here
 };
 
