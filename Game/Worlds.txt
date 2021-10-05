@@ -1,0 +1,11 @@
+WORLD'S
+
+1. Forest
+2. Cave
+3. Swamp
+4. Village
+5. Desert
+6. Temple
+7. Battlefield
+
+FINAL - Inside the Monsters Lair Featuring BOSS MONSTER
